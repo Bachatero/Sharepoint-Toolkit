@@ -1,5 +1,5 @@
 # Sharepoint-Toolkit
-Sharepoint file uploader/downloader using Office365-REST-Python-Clienti lib
+Sharepoint file uploader/downloader using Office365-REST-Python-Clienti library
 
 
 When sharepoint library cannot be mapped as regular network drive using "service" account and only APP can access it due to sharepoint security settings
