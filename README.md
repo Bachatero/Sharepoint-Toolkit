@@ -9,7 +9,7 @@ Usage:
 
 _$  ./python.exe sharepointToolkit.py  --help
 
-usage: sharepointFileTools_v1.2.py [-h] -s SITE 
+usage: sharepointToolkit.py [-h] -s SITE 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (-d DOWNLOAD [DOWNLOAD ...] | -u UPLOAD [UPLOAD ...] | -l | -all DOWNLOADALL [DOWNLOADALL ... ])  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [-dest DESTINATION] [-dir DIRECTORY] [-del] 
 
