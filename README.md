@@ -2,7 +2,7 @@
 Sharepoint file uploader/downloader using Office365-REST-Python-Client library
 
 
-When sharepoint library cannot be mapped as regular network drive using "service" account and only APP can access it due to sharepoint security settings
+When sharepoint library cannot be mapped as regular network drive using "service" account and only Azure APP can access it due to sharepoint security settings
 
 
 Usage:
